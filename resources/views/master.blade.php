@@ -84,7 +84,7 @@
 
 
 
-      <title>EXPEDICIÓN A JUAN MARILLO </title>
+      <title>EXPEDICIÓN A JUAN AMARILLO </title>
 
   </head>
 
@@ -170,7 +170,7 @@
 
                 <h1>IDRD</h1>
 
-                <center<p class="lead"><h1>EXPEDICIÓN A JUAN MARILLO </h1></p>
+                <center<p class="lead"><h1>EXPEDICIÓN A JUAN AMARILLO </h1></p>
 
               </div>
 
